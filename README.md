@@ -1,0 +1,2 @@
+# kodluyoruzalisveris
+ödev
