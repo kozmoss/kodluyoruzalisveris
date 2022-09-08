@@ -1,0 +1,49 @@
+/* Acıklama Satırı */
+/********** Layout  *************/
+body {
+    background-color:#f8f8f8;
+    background-attachment: fixed;
+}
+.baslik {
+    color: red;
+    display: block;
+    text-align: center;
+}
+.list {
+    list-style-position: inside;
+    text-align: center;
+}
+img {
+    width: 160px;
+    height: 250px;
+    align-items: center;
+    
+}
+.etiket {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+div{
+    align-items: center;
+    margin:20px;
+    padding: 20px;
+
+    
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
+strong {
+    color: red;
+}
+button {
+    margin-top: 10px;
+}
+
