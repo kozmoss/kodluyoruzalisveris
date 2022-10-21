@@ -1,2 +1,1 @@
 # kodluyoruzalisveris
-ödev
